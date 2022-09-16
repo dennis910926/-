@@ -34,7 +34,7 @@
   + #### 2. 建立*PL Repo.*
   + #### 3. 安裝*Node.js&React*
 + #### *Week2*
-  + #### [個人靜態網頁](https://dennis910926.github.io/Web/Week2mypage/)
+  + #### 1. [個人靜態網頁](https://dennis910926.github.io/Web/Week2mypage/)
 + #### *Week3*
 + #### *Week4*
 + #### *Week5*
