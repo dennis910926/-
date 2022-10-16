@@ -39,6 +39,7 @@
   + #### 1. [網際網路概論作業1](https://www.youtube.com/watch?v=yyFn3DZUc4o)
 + #### *Week4*
 + #### *Week5*
+  + #### 1. [網際網路概論作業2](https://www.youtube.com/watch?v=Fvo3TwiRs7I)
 + #### *Week6*
 + #### *Week7*
 + #### *Week8*
