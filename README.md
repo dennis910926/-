@@ -19,7 +19,7 @@
 + #### *Week1*
   + **1. 網路的起源**
 + #### *Week2*
-  + #### 1. *Bootstrap*網站
+  + #### 1. [*Bootstrap*網站](https://startbootstrap.com/themes)
   + #### 2. 雲端與地端的連結教學   
 + #### *Week3*
 + #### *Week4*
@@ -36,8 +36,10 @@
 + #### *Week2*
   + #### 1. [個人靜態網頁](https://dennis910926.github.io/Web/Week2mypage/)
 + #### *Week3*
+  + #### 1. [網際網路概論作業1](https://www.youtube.com/watch?v=yyFn3DZUc4o)
 + #### *Week4*
 + #### *Week5*
+  + #### 1. [網際網路概論作業2](https://www.youtube.com/watch?v=Fvo3TwiRs7I)
 + #### *Week6*
 + #### *Week7*
 + #### *Week8*
